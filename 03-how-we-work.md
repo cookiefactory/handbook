@@ -39,7 +39,7 @@ We are one team and are passionate about thomann.de and our app. We put our shar
 - **Work in teams:** Our way of work is inspired by established processes. However, we own and adjust them when needed. We bank on long-term, cross-functional teams working location- and platform-independent.
 - **One remote, all remote:** A good meeting provides equal chances for every participant. If one team member joins remotely, all other participants shall join the meeting remotely and separately. 
 
-### No Gos
+### No-Gos
 
 - **Hallway radio:** We avoid hidden priorities, agendas, and the distribution of wet ink. What counts is communicated transparently and explicitly.
 - **Getting stuck with your mindset:** We avoid being biased. There is no "we've always done it this way" or "this will never work" without valid data and experience.
