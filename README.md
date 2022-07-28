@@ -1,6 +1,6 @@
-# README
+# THOMANN.IO EMPLOYEE HANDBOOK 
 
-## What is this?
+This is the single source of truth of our employee guidelines at thomann.io
 
 ## How to contribute to this handbook
 
