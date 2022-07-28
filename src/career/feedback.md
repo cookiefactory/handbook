@@ -1,22 +1,6 @@
-# Career paths
-
-Each unit offers two different career paths.
-
-## Professional
-
-You like to dive deep into the rabbit hole of your expertise area? Awesome! You can advance your skill set in your subject area and become an experienced senior. 
-
-## Management
-
-You like to lead and enable people? You love to see them become experts? Great! You can grow into a people lead role and help your team to become empowered. 
-
-**Important note:** No matter on which path you decide, there will be no monetary differences. The pay ranges will be similar based on your seniority and your experience within thomann.io.
-
-**Changing roles:** If you’re unhappy in your current role, just talk to your lead. If you see a role on our jobs page that might be a fit for you, just apply. It’s as simple as that.
-
 # 360° Feedback
 
-A great feedback culture lives from having the option to give feedback any time, any place. And even though this is great, it is important to provide regular, obligatory formats to collect and give feedback. 
+A great feedback culture lives from having the option to give feedback any time, any place. And even though this is great, it is important to provide regular, obligatory formats to collect and give feedback.
 
 ## Appraisal interview
 
@@ -43,7 +27,7 @@ Our P&C team offers an open ear to anybody in the team. If there’s something y
 
 ## Peer feedback
 
-Once a year, you have to organize at least 2 peer feedback sessions. 
+Once a year, you have to organize at least 2 peer feedback sessions.
 
 1. a talk with a team member you work together a lot (approx. 80% of your time). Let them answer the questions below.
 2. a talk with a team member you spend less time with (approx. 20% of your time). Let them answer the questions below.

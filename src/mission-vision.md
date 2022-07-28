@@ -27,8 +27,8 @@ To create the most inspiring online shopping experience for musicians.
 
 ### Coaching
 
-1. Establish a “how we work” Bootcamp.
-2. Support all thomann.io teams in becoming e2e product or service teams.
+1. Open up the t.io doors to build the foundation of a shared company culture and find a common way of work.
+2. Support thomann.io in becoming an e2e engineering organization.
 
 ### Thomann Company Tech Backlog
 
