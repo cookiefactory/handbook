@@ -15,9 +15,9 @@ Kenjo is our people & culture tool. It's used for all people-related tasks:
 
 ### #announcements, #slackcast and #review-1
 
-#announcements is used for must-have/must-know information. For example new employees starting, old ones leaving. Assembly documentation, sign ups for team events... Announcements made should always use the @Channel mention.
+announcements is used for must-have/must-know information. For example new employees starting, old ones leaving. Assembly documentation, sign ups for team events... Announcements made should always use the @Channel mention.
 
-#slackcast is used for should-have/should-know/nice-to-have information. For example all-over business context, information on workshops/team events that happened, progress of team projects... Information provided here should either be posted without a mention or only use a weaker form such as mentioning a single team or @hier
+slackcast is used for should-have/should-know/nice-to-have information. For example all-over business context, information on workshops/team events that happened, progress of team projects... Information provided here should either be posted without a mention or only use a weaker form such as mentioning a single team or @hier
 
 Both channels are standard channels every newly added team member joins. If you haven't joined yet, please do so.
 
