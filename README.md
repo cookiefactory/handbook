@@ -13,10 +13,14 @@ If you spot typos, find something to be unclear or simply wrong, there are two o
 - [File an issue](https://github.com/cookiefactory/handbook/issues/new)
 - [Change the Markdown file directly](https://drive.google.com/file/d/17vDMpXjCLpqcbsRqIx-KOYiW0sg94TyO/view?usp=sharing)
 
-
-
 ### Where goes what?
 
-- All files go in assets
+- All markdown goes into `/src`
+- All files go into `/assets`
 - Stay plain text when possible
 - test
+
+### How does it go live?
+
+- We're using mdBook to render this handbook on `insert domain once live`
+- Once your changes have arrived in the main branch, they will be deployed
