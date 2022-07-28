@@ -49,6 +49,16 @@ We are one team and are passionate about thomann.de and our app. We put our shar
 - **Talking about "the others:"** We are one large team - the Web Team. Even though we all have different roles, there are no "others" in our team. We share one common goal and every team member contributes with their skills. 
 - **Head monopolies:** We don't like them. Each head can fit some more of the other team members' knowledge.
 
+### When we work
+
+We rely on self-organized groups of individuals that know when and how to get their best work done. A team also decides how much overlap they need to collaborate. 
+
+We aim for 40 hours a week (for a full-time employee). This helps us focus on what's important. Each team and individual know best when to work. We have no fixed schedule.
+
+We emphasize a healthy routine for everyone. That includes having a life outside of work and getting a good amount of sleep. That's the best productivity hack you can get. 
+
+There may be exceptions, but they stay exceptions. We act proactive. If we exceed these hours regularly, we figure out the issue and solve it. That can mean recruiting more people, fixing a flawed process, or something else. 
+
 ### Iterations
 
 Most teams plan and work in **iterations of 2 weeks** and release as often as possible. **“Done”** means our customers use it.
