@@ -15,23 +15,25 @@ Kenjo is our people & culture tool. It's used for all people-related tasks:
 
 ### #announcements, #slackcast and #review-1
 
-announcements is used for must-have/must-know information. For example new employees starting, old ones leaving. Assembly documentation, sign ups for team events... Announcements made should always use the @Channel mention.
+`#announcements` is used for must-have/must-know information. For example new employees starting, old ones leaving. Assembly documentation, sign ups for team events... Announcements made should always use the **@Channel** mention.
 
-slackcast is used for should-have/should-know/nice-to-have information. For example all-over business context, information on workshops/team events that happened, progress of team projects... Information provided here should either be posted without a mention or only use a weaker form such as mentioning a single team or @hier
+`#slackcast` is used for should-have/should-know/nice-to-have information. For example all-over business context, information on workshops/team events that happened, progress of team projects... Information provided here should either be posted without a mention or only use a weaker form such as mentioning a single team or **@hier**
 
 Both channels are standard channels every newly added team member joins. If you haven't joined yet, please do so.
 
-#review-1 is used by all teams that have something new to present to everybody. Reviews take place every 4 weeks (check the team calendar for details) and are open to join for everybody. Each product team has a 20 minute slot to show the last weeks’ progress and share thoughts with people from other teams. Each product team must send at least one attendee apart from their PO. It will be their responsibility to update all not attending team members on what’s been shared.
+`#review-1` is used by all teams that have something new to present to everybody. Reviews take place every 4 weeks (check the team calendar for details) and are open to join for everybody. Each product team has a 20 minute slot to show the last weeks’ progress and share thoughts with people from other teams. Each product team must send at least one attendee apart from their PO. It will be their responsibility to update all not attending team members on what’s been shared.
 
-### #thomann-universe, #tech-talk and #bauchpinselei
+### #thomann-universe, #tech-talk, #coffee-time and #bauchpinselei
 
-#thomann-universe is used to connect all team members and all guests. It has no real communication purpose other than being able to contact all people we have in our slack workspace, regardless of being guests or workspace members.
+`#thomann-universe` is used to connect all team members and all guests. It has no real communication purpose other than being able to contact all people we have in our slack workspace, regardless of being guests or workspace members.
 
-Use the #tech-talk channel if you stumbled upon interesting news in tech that team members could be interested in.
+Use the `#tech-talk` channel if you stumbled upon interesting news in tech that team members could be interested in.
 
-If you find a really positive customer feedback, provide it to everybody in #bauchpinselei.
+If you find a really positive customer feedback, provide it to everybody in `#bauchpinselei`.
 
-Do not use @channel or @here mentions in these three channels. If youre have important news that justify pinging everyone better choose #announcements or #slackcast.
+`#coffee-time` is a standard channel that helps you to connect to other team members. Every monday our coffee bot will match a new pair of team members to have a call in the current week.
+
+Do not use **@channel** or **@here** mentions in these three channels. If you're have important news that justify pinging everyone better choose #announcements or #slackcast.
 
 ### #opsteam-support and #datateam-support
 
