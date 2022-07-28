@@ -2,8 +2,16 @@
 
 ## Slack 
 
-
 Slack is our main communication tool. You can reach every team member of thomann.io via Slack.
+
+## Kenjo
+
+Kenjo is our people & culture tool. It's used for all people-related tasks:
+- requesting vacation
+- calling in sick
+- setting and tracking unit/community/team/personal goals
+- download paychecks
+- etc.
 
 ### #announcements, #slackcast and #review-1
 
@@ -31,12 +39,9 @@ Any questions regarding our infrastructure or how to track data and receive it? 
 
 If your question is urgent, you can use the @datateam and @opsteam mentions. If you have a specific request it's best to put it in a Jira ticket.
 
-
-## Our philosophy about tools - new or curent
-
+## Our philosophy about tools - new or current
 
 ## Jira
-
 
 Jira is the place to collect tasks, projects, visions, bugs and user problems. Every member of thomann.io has access to check what we're working on and which steps we will take to reach our goals.
 
