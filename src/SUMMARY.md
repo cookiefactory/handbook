@@ -2,7 +2,7 @@
 
 - [CORE VALUES](core-values.md)
 - [MISSION AND VISION](mission-vision.md)
-- [HOW WE WORK](how-we-work/how-we-work.md)
+- [HOW WE WORK](how-we-work/intro.md)
   - [TEAM MANIFESTO](how-we-work/team-manifesto.md)
 - [CAREERS](career/intro.md)
   - [CAREER PATHS](career/career-paths.md)

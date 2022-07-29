@@ -4,15 +4,6 @@
 
 Slack is our main communication tool. You can reach every team member of thomann.io via Slack.
 
-## Kenjo
-
-Kenjo is our people & culture tool. It's used for all people-related tasks:
-- requesting vacation
-- calling in sick
-- setting and tracking unit/community/team/personal goals
-- download paychecks
-- etc.
-
 ### #announcements, #slackcast and #review-1
 
 `#announcements` is used for must-have/must-know information. For example new employees starting, old ones leaving. Assembly documentation, sign ups for team events... Announcements made should always use the **@Channel** mention.
@@ -33,13 +24,26 @@ If you find a really positive customer feedback, provide it to everybody in `#ba
 
 `#coffee-time` is a standard channel that helps you to connect to other team members. Every monday our coffee bot will match a new pair of team members to have a call in the current week.
 
-Do not use **@channel** or **@here** mentions in these three channels. If you're have important news that justify pinging everyone better choose #announcements or #slackcast.
+Do not use **@channel** or **@here** mentions in these three channels. If you have important news that justify pinging everyone better choose #announcements or #slackcast.
 
 ### #opsteam-support and #datateam-support
 
 Any questions regarding our infrastructure or how to track data and receive it? Both channels help you to quickly connect with team members of our operations and of our data team. Remember: there are no stupid questions. If you’re asking yourself a question, chances are high someone else can also profit from an answer.
 
 If your question is urgent, you can use the @datateam and @opsteam mentions. If you have a specific request it's best to put it in a Jira ticket.
+
+## Kenjo
+
+Kenjo is our people & culture tool. It's used for all people-related tasks:
+- requesting vacation
+- calling in sick
+- setting and tracking unit/community/team/personal goals
+- download paychecks
+- etc.
+
+## Google Workplace
+
+We collaborate on documents, spreadsheets and presentations via Google Workplace. That's also were you find your email inbox and your calendar. 
 
 ## Our philosophy about tools - new or current
 

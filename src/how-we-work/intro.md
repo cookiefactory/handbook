@@ -2,7 +2,7 @@
 
 ## remote, distributed, together (guidelines, tooling)
 
-Our main communication tool is **Slack**. Use slack status to **communicate your availability**. The easiest way is on-/offline. We provide a few other status messages, e.g. when you’re in a meeting, in a work tunnel, on break, sick or on vacation. Make sure to set them accordingly.
+Our main communication tool is **Slack**. Use Slack status to **communicate your availability**. The easiest way is on-/offline. We provide a few other status messages, e.g. when you’re in a meeting, in a work tunnel, on break, sick or on vacation. Make sure to set them accordingly.
 
 ### When we work
 
