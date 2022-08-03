@@ -4,7 +4,7 @@ A great feedback culture lives from having the option to give feedback any time,
 
 ## Appraisal interview
 
-Once a year, a classical performance review with your lead person. You’ll get feedback, set a vision for your role(s), and decide upon goals to achieve and things to learn. Here’s also the place to talk about maturity levels and skills.
+Once a year, you will have a classical performance review with your lead person. You’ll get feedback, set a vision for your role(s), and decide upon goals to achieve and things to learn. Here’s also the place to talk about maturity levels and skills.
 
 Duration: 60-90 minutes
 
