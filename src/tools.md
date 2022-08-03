@@ -43,7 +43,7 @@ Kenjo is our people & culture tool. It's used for all people-related tasks:
 
 ## Google Workplace
 
-We collaborate on documents, spreadsheets and presentations via Google Workplace. That's also were you find your email inbox and your calendar. 
+We collaborate on documents, spreadsheets and presentations via Google Workplace. That's also where you find your email inbox and your calendar. 
 
 ## Our philosophy about tools - new or current
 
